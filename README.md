@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TheInvisibility alias Aymeric !</h1>
-<h3 align="center">I am a passionate backend Java developer!</h3>
+<h3 align="center">I am a passionate Java backend developer!</h3>
 
 - 🔭 I’m currently working on **personal projects.**
 
