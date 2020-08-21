@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **personal projects.**
 
-- 🌱 I’m currently learning **WebSockets, ScheduledFutures, etc...**
+- 🌱 I’m currently learning **ScheduledFutures, WebSockets, etc...**
 
 - 👯 I’m looking to collaborate with **experienced Java developers.**
 
